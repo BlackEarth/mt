@@ -1,5 +1,5 @@
 config = {
-  "name": "mtext",
+  "name": "mt",
   "version": "0.0.1",
   "description": "marked text data type, Python implementation",
   "url": "https://github.com/BlackEarth/mtext",
@@ -13,7 +13,7 @@ config = {
     "Programming Language :: Python :: 3"
   ],
   "entry_points": {},
-  "install_requires": ["bl"],
+  "install_requires": [],
   "extras_require": {
     "dev": [],
     "test": []
